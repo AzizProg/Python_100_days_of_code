@@ -1,6 +1,1 @@
-print("Welcome friend, I will ask you questions for fun!. Are you ready ? so let's go!!!")
-username:str=input("What's your name ?")
-foodFavorite:str=input("Your favorite food ?")
-music:str=input("Your favorite song ?")
-live:str=input("Where do you live ?")
-print(f"Your name is {username}, you like {foodFavorite} as favorite food and {music} as favorite song. You live in {live}\n Thank you for answers, bye!!")
+print("test")
