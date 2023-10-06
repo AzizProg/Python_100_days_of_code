@@ -1,2 +1,2 @@
-variable="hello world"
+variable:str="hello world"
 print(variable)
